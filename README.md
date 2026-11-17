@@ -6,3 +6,9 @@ project create on folder -- push on git
 open jenkin 
 new item - freestyle project -- ok
 scource code management -- git 
+
+Branch Specifier - */main
+
+Triggers
+
+Poll SCM   --- H/5 * * * *
